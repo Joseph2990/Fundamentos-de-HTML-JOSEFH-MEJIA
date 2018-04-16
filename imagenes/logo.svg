@@ -1,0 +1,20 @@
+<svg width="460" height="230" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter id="svg_3_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#005fbf" id="canvas_background" height="232" width="462" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000" id="svg_2" d="m455.599959,106.811401l-54.424466,1.556564l-14.560882,37.925064l-48.147874,-9.168871l-69.825882,29.101193l-26.584731,-16.983248l-223.915118,72.627904l124.412285,-80.99557l-103.340711,-10.52983l32.337091,-15.666762l-70.949692,-28.754441l50.98846,-6.953859l-16.032636,-37.849696l53.45132,3.966841l43.974652,-34.927958l38.943802,13.628102l90.020284,-20.916833l12.071881,18.962532l107.485156,-0.264769l-18.632784,18.276496l90.824196,20.471363l-43.421628,11.787793l45.327275,34.707986z" stroke-width="1.5" fill="#ffffff"/>
+  <text filter="url(#svg_3_blur)" stroke-width="0" opacity="0.75" stroke="#000" transform="rotate(-10 224.20751953124991,87.11766052246098) matrix(2.320308394251981,0,0,2.837965109559974,-172.20267528450933,-104.13458346732486) " xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="21" id="svg_3" y="74.544167" x="111.91448" stroke-opacity="null" fill="#000000">Josefh Mejia</text>
+ </g>
+</svg>
